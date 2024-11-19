@@ -1,0 +1,9 @@
+ person : name , address , phone no, email , license
+ vehicle: type (bike , truck, bus, car)
+ person do payment
+ parking space: for vehicle type
+ display board: how many space are left, how many occupied,
+ parking entry
+ parking exit
+ ticket:
+ Agent: person
